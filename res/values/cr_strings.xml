@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2025 crDroid Android Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="crdroid_donate_title">crDroid needs your help!</string>
+    <string name="crdroid_donate_notification_text">Tap to learn how you can help</string>
+    <string name="crdroid_donate_message">We are dedicated to delivering high-quality builds for your device. Consider making a small donation to help us continue this project. You can dismiss this message, but your support is greatly appreciated!</string>
+    <string name="crdroid_donate_button">Donate</string>
+    <string name="crdroid_later_button">Maybe later</string>
+    <string name="crdroid_donate_channel_name">Support crDroid</string>
+    <string name="crdroid_donate_channel_desc">Reminders to support the project</string>
+</resources>
